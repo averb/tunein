@@ -1,0 +1,23 @@
+.header {
+  padding: 10px;
+  background-color: #1c203c;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.sort-title {
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.stations {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px 20px;
+}
+
+.buttons-group button + button {
+  margin-left: 10px;
+}
